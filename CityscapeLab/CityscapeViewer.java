@@ -7,6 +7,7 @@ import javax.swing.JFrame;
  * @version 18 July 2014
  */
 public class CityscapeViewer
+
 {
     /**
      * main method for the program which creates and configures the frame for the program
@@ -28,6 +29,7 @@ public class CityscapeViewer
         // make the frame visible which will result in the paintComponent method being invoked on the
         //  component.
         frame.setVisible(true);
+        
     }
 
 }
